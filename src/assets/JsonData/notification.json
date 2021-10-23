@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "Optio unde esse dolor amet laudantium voluptate doloremque obcaecati."
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "numquam dolore iure repellendus, ea nesciunt porro totam."
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "Tenetur repellat nulla sunt nisi."
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Dolorum nisi facere perspiciatis dolores fugit delectus natus excepturi"
+    }
+]
