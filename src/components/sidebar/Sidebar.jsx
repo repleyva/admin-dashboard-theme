@@ -11,7 +11,6 @@ const Sidebar = (props) => {
     <div className="sidebar">
       <div className="sidebar__logo">
         <img src={logo} alt="company logo" />
-        <h2>Admin/Dashboard</h2>
       </div>
       {sidebar_items.map((item, index) => (
         <Link to={item.route} key={index}>
