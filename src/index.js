@@ -18,7 +18,7 @@ document.title = "Admin Dashboard - repleyva";
 ReactDOM.render(
   <Provider store={store}>
     <React.StrictMode>
-      <Layout />
+      <Layout className="app"/>
     </React.StrictMode>
   </Provider>,
   document.getElementById("root")
