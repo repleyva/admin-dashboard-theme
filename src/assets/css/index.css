@@ -52,7 +52,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   letter-spacing: 0.7px;
-	min-width: 1250px;
+  min-width: 1300px;
 }
 
 a {
